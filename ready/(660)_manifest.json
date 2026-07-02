@@ -1,0 +1,11 @@
+{
+  "mediaType": "video",
+  "blogId": "YOUR_BLOG_ID",
+  "userId": "YOUR_USER_ID",
+  "timezone": "Asia/Amman",
+  "mediaUrl": "https://your-public-host/path/(660)_metricool_audio.mp4",
+  "duration": 9.0,
+  "publicationDate": "2026-07-01T10:00:00",
+  "thumbnailUrl": "https://your-public-host/path/(660)_thumb.jpg",
+  "caption": "Short caption here"
+}
